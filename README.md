@@ -21,7 +21,7 @@ Bootstrap for responsive and friendly design
 
 Getting Started:
 To run the ShoplateAPP project locally, follow these steps:
-Clone the repository: git clone https://github.com/CimochJ/Shoplate.git
+Clone the repository: git clone https://github.com/MrChazar/Shoplate.git
 Open the project in your preferred Integrated Development Environment (IDE).
 Build the project to restore the dependencies.
 Configure the connection string to your database in the project settings.
